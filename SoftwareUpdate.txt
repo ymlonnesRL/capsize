@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Fix PNNX ubuntu -> linux bug (#7050)
