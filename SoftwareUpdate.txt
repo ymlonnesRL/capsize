@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
