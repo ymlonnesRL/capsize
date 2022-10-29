@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Add dota8.yaml and O tests (#7394)
