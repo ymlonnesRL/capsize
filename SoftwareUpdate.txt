@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Fix ONNX GPU inference bug (#6840)
