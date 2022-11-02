@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Fixed RTDETR GFLOPs bug (#7309)
