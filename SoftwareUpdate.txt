@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
