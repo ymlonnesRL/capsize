@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+YAML reformat (#7669)
