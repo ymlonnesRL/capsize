@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Add https://youtu.be/rCggzXRRSRo to Speed Estimation Docs (#8577)
