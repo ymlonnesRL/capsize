@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
