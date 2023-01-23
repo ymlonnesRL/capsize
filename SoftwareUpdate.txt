@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Remove unused variables (#8511)
