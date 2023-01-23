@@ -1,1 +1,1 @@
-Remove unused variables (#8511)
+Update format.yml to pull_request_target (#7460)
