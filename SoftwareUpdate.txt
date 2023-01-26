@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Optimize function calls to method calls (#8507)
