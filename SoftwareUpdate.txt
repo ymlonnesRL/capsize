@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
