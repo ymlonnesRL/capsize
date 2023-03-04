@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Add Weights & Biases Docs integrations page (#7199)
