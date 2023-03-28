@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
