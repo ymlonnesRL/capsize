@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Add CoreML Docs Integrations Page (#8063)
