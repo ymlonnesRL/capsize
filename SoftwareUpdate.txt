@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
