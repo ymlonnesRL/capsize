@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Optimize function calls to method calls (#8507)
