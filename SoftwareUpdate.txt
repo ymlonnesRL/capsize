@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
