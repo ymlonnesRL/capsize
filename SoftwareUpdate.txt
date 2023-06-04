@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add integrations/gradio Docs page (#7935)
