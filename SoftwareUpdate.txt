@@ -1,1 +1,1 @@
-fix resume training
+update README
