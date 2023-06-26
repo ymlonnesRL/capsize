@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
