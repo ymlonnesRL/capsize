@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+docs: update view-results-in-terminal.md (#66)
