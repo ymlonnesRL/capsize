@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Rename model_id to model.id (#8447)
