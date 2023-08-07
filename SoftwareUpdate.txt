@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
