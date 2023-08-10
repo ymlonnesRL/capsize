@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
