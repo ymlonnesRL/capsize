@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
