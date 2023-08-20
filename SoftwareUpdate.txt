@@ -1,1 +1,1 @@
-Update pyproject.toml [tool.pytest.ini_options] (#9259)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
