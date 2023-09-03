@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
