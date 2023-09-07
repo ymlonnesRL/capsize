@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
