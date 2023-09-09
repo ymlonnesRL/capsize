@@ -1,1 +1,1 @@
-Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
