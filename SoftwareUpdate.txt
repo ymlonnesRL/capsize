@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
