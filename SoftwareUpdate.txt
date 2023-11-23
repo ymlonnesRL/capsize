@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
