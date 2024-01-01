@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
