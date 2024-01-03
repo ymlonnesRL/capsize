@@ -1,1 +1,1 @@
-Update mkdocs.yml (#7693)
+Elaborate Train and Predict mode docs arguments (#8137)
