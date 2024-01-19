@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Update CITATION.cff with cffinit corrections (#8658)
