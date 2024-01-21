@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Allow Annotator PIL.Image inputs (#8397)
