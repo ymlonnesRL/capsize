@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
