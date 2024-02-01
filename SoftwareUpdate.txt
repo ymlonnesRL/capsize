@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+fix yolo classify model loading error (#9196)
