@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add domain checks to CI docs page (#8714)
