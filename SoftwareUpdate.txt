@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Add HUB-SDK docs (#7775)
