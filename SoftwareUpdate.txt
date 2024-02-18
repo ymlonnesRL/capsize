@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add docstrings to new HUB functions (#7576)
