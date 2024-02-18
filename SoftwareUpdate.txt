@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Add integrations/gradio Docs page (#7935)
