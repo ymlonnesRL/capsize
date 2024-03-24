@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Add docstrings to new HUB functions (#7576)
