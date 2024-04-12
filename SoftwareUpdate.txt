@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Merge pull request #22 from SkalskiP/patch-1
