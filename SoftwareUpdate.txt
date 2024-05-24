@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Python refactorings and simplifications (#7549)
