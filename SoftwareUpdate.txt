@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Allow Annotator PIL.Image inputs (#8397)
